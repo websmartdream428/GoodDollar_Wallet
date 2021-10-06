@@ -13,12 +13,18 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-easy-grid": "^0.2.2",
+    "react-native-paper": "^4.9.2",
+    "react-native-svg": "^12.1.1",
+    "react-native-table-component": "^1.2.1",
+    "react-native-tableview": "^3.1.0",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@types/react": "~16.9.35",
     "@types/react-native": "~0.63.2",
+    "@types/react-native-table-component": "^1.2.1",
     "typescript": "~4.0.0"
   },
   "private": true
